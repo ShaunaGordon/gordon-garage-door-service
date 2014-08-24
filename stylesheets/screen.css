@@ -215,13 +215,12 @@ div#no-downloads span.inner {
   background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
 }
 
-section#downloads a {
+section#downloads p {
   display: block;
   position: relative;
   height: 67px;
   width: 275px;
   padding-top: 130px;
-  background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
   text-align: center;
   line-height: 1;
   color: #fff;
@@ -234,7 +233,7 @@ section#downloads a:hover {
   text-decoration: none;
 }
 
-section#downloads a em {
+section#downloads em {
   font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
   color: #83b7da;
   display: block;
