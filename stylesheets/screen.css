@@ -222,6 +222,7 @@ section#downloads p {
   width: 275px;
   padding-top: 130px;
   text-align: center;
+  background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
   line-height: 1;
   color: #fff;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
