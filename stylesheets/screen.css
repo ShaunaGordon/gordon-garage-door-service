@@ -230,6 +230,10 @@ section#downloads p {
   font-size: 1.3em;
 }
 
+section#downloads a, section#downloads em {
+  color: #fff;
+}
+
 section#downloads a:hover {
   text-decoration: none;
 }
