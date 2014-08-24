@@ -231,6 +231,7 @@ section#downloads p {
 }
 
 section#downloads a, section#downloads em {
+  font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
   color: #fff;
 }
 
